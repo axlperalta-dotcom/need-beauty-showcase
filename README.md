@@ -108,5 +108,5 @@ Para compartir este proyecto vivo con reclutadores y clientes:
 ---
 
 ## ✍️ Desarrollado por
-*   **Tu Nombre / Agencia Web** — [Tu Enlace a Portfolio o LinkedIn](https://linkedin.com)
+*   **Axl Peralta** — (https://www.linkedin.com/in/luis-axl-peralta-contreras-244433345/)
 *   *Desarrollo diseñado bajo estándares de excelencia D2C en 2026.*
